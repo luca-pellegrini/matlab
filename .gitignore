@@ -3,3 +3,10 @@ prova**
 test**
 output**
 *.log
+
+*.pdf
+
+old/
+
+# Cartelle con le soluzioni proposte dal prof
+soluzioni/
